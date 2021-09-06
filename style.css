@@ -1,0 +1,21 @@
+.background{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+.heading{
+    width: 70%;
+    font-size: 20px;
+}
+.objects{
+    color: red;
+    font-size: 18px;
+}
+#camera,#result{
+    border:2px solid darkgreen ;
+    width: 350px;
+    height: 300px;
+}
+#result_object,#result_accuracy{
+    color: darkred;
+    border-radius: 3px;
+}
